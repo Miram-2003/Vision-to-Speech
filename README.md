@@ -32,7 +32,7 @@ Streamlit
 
 Installation
 Clone the repository
-    “git clone https://github.com/RookieAdventurer/Vision-to-Speech/”
+    “git clone https://github.com/RookieAdventurer/Vision-to-Speech”
 
     “cd image-captioning-app”
    
