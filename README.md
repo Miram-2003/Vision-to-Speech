@@ -1,16 +1,17 @@
 # Vision-to-Speech
+##Link to YouTube: 
 
-Image Captioning App
+###Image Captioning App
 
-Overview
+##Overview
 
 This project is an application that captures an image using a pre-trained image captioning model. The app is built using Streamlit, a popular open-source app framework for Machine Learning and Data Science projects.
 
-Features
+###Features
 Upload an image and get a caption describing the image.
 Easy-to-use web interface powered by Streamlit.
 
-Files and Directories
+###Files and Directories
 app.py: The main application file. Contains the code to run the Streamlit app. requirements.txt: A file listing the required Python packages to run the app.
 
 features.pkl: A serialized file containing features used by the model for image captioning.
@@ -24,7 +25,7 @@ link to the dataset: https://drive.google.com/drive/folders/1k0V8QzEqipDtxhp4Asf
 
 
 
-Prerequisites
+###Prerequisites
 
 Before running the application, make sure you have the following installed on your system:
 Python 3.6 or higher
