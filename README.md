@@ -12,7 +12,14 @@ Easy-to-use web interface powered by Streamlit.
 
 Files and Directories
 app.py: The main application file. Contains the code to run the Streamlit app. requirements.txt: A file listing the required Python packages to run the app.
+
 features.pkl: A serialized file containing features used by the model for image captioning.
+
+link to the model : https://drive.google.com/file/d/1LTf9S2UWCrom9pKexCgia0FA50STcalw/view?usp=sharing
+
+link to feature.pkl : https://drive.google.com/file/d/1--J2StLFDFMIAl4npOmZ1A2lHrxhboZt/view?usp=sharingm
+
+
 link to the dataset: https://drive.google.com/drive/folders/1k0V8QzEqipDtxhp4AsfJP-43uSNFQOt2?usp=sharing 
 
 
@@ -25,7 +32,7 @@ Streamlit
 
 Installation
 Clone the repository
-    “git clone https://github.com/miriam_appiah/image-captioning-app.git”
+    “git clone https://github.com/RookieAdventurer/Vision-to-Speech/”
 
     “cd image-captioning-app”
    
