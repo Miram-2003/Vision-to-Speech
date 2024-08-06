@@ -70,4 +70,3 @@ Upload an image using the file uploader
 The app will display a caption for the uploaded image.
    Simply follow these steps to use the application effectively.
 
-Click here to see how it works
