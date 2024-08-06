@@ -1,5 +1,5 @@
 # Vision-to-Speech
-## Link to YouTube: 
+## Link to YouTube: https://youtu.be/MfLDBq867zA
 
 ### Image Captioning App
 
