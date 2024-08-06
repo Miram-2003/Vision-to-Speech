@@ -12,7 +12,6 @@ Upload an image and get a caption describing the image.
 Easy-to-use web interface powered by Streamlit.
 
 ### Files and Directories
-app.py: The main application file. Contains the code to run the Streamlit app. requirements.txt: A file listing the required Python packages to run the app.
 
 features.pkl: A serialized file containing features used by the model for image captioning.
 
